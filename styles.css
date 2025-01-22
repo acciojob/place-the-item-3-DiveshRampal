@@ -3,7 +3,8 @@
 .holder{display:flex;
 		flex-wrap:wrap;
 		flex-direction:row;
-		justify-items:space-evenly;
+		justify-content:space-evenly;
+		
 }
 
 .item{padding:10px;
